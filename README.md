@@ -45,6 +45,10 @@ In the Arduino IDE, press the upload button to upload the code to the device.
 
 ## Use
 
+Connect the ESP8266 and WS2812 components as shown in the diagram below:
+
+![ESP8266 Wifi Lantern Schematic](ESP8266_Wifi_Lantern_Schematic.png)
+
 Connect to the `lantern` SSID (or the name of the SSID you have chosen in the code) and input the chosen password.
 
 The default IP address of the device acting as a Wi-Fi access point is `192.168.4.1`.
